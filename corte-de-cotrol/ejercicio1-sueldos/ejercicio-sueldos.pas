@@ -1,4 +1,4 @@
-program untitled;
+program Ejercicio1Sueldos;
 
 uses crt;
 var archivo: text;
