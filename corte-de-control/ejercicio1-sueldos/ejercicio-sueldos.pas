@@ -10,7 +10,7 @@ procedure MostrarSueldos (var archivo:text);
 	reset(archivo);
 	readln(archivo, sucursal, empleado, sueldo);
 	sucAnterior:= sucursal;
-	sumaSueldos:=0;
+	sumaSueldos:= 0;
 	
 	writeln('Reporte de sueldo');
 	writeln('Sucursal ', sucursal);
